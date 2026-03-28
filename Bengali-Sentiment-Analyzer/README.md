@@ -1,6 +1,6 @@
 # Bengali Sentiment Analyzer using Sailor2 (Multilingual South-East Asia Model)
 
-This project is a Bengali sentiment analysis application built using FastAPI, Streamlit, and the Sailor2 language model. Sailor2 is a multilingual model designed specifically for South-East Asian languages, making it suitable for handling Bengali text with improved contextual understanding.
+This project is a Bengali sentiment analysis application built using FastAPI, Streamlit, and the Sailor2 language model from Ollama. Sailor2 is a multilingual model designed specifically for South-East Asian languages, making it suitable for handling Bengali text with improved contextual understanding.
 
 ![UI](sentiment-analyzer-ui.png)
 
