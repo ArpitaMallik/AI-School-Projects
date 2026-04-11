@@ -50,9 +50,7 @@ streamlit run frontend/app.py
 ```
 
 ## Notes
-
-* This project is designed for learning and experimentation with FastAPI and Streamlit
-* Running large vision-language models locally may require significant system resources
+This project depends on external vision-language models. Performance and successful execution may vary depending on available system resources.
 
 ## License
 
