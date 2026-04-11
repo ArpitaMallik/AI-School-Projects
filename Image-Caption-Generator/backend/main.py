@@ -14,7 +14,7 @@ async def caption_image(file: UploadFile = File(...)):
             response = await client.post(
                 "http://localhost:11434/api/generate",
                 json={
-                    "model": "llava:7b",
+                    "model": "moondream:v2",
                     "prompt": "Generate a description of this image.",
                     "images": [image_base64],
                     "stream": False
