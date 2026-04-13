@@ -12,9 +12,9 @@ ollama pull <model-name>
 
 ### Projects
 
-* `Bengali Sentiment Analyzer`
-* `Image Caption Generator`
-* `Text Summarizer`
+* `Bengali Sentiment Analyzer` using Sailor2
+* `Image Caption Generator` using Moondream
+* `Text Summarizer` using Llama3.2:1b
 
 ### Tech Stack
 
